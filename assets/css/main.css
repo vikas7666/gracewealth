@@ -158,8 +158,8 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+    margin-right: 8px;
+    width: 50px;
 }
 
 .header .logo h1 {
