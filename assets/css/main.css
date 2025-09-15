@@ -146,7 +146,7 @@ h6 {
 
 .header .logo img {
     margin-right: 8px;
-    width: 50px;
+    width: 58px;
 }
 
 .header .logo h1 {
@@ -3365,7 +3365,7 @@ section,
 
 .hero-2 .carousel {
   width: 100%;
-  min-height: 100vh;
+  min-height: 80vh;
   padding: 0;
   margin: 0;
   background-color: var(--background-color);
