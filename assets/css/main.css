@@ -71,7 +71,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
+  font-family: var(--default-font);
 }
 
 /* PHP Email Form Messages
@@ -3431,6 +3431,7 @@ section,
 
 .hero-2 p {
   animation: fadeInDown 1s both 0.2s;
+  text-align: center;
 }
 
 @media (min-width: 1024px) {
